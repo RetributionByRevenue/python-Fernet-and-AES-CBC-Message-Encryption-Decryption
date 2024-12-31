@@ -4,6 +4,8 @@ Ideal usage for Kivy, as install of 3rd party packages is difficult.
 
 
 =================Console Output=========================
+
+
 My Key is:  myPassW0RD$$!
 My message before encryption:  this is my special message :)
 
