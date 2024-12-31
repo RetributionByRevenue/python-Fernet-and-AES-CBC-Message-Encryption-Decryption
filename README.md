@@ -1,4 +1,4 @@
-Pure python implementation of using Fernet and AES-CBC to encrypt and decrypt encoded messages. 
+Pure python implementation of Fernet and AES-CBC to encrypt and decrypt encoded messages. 
 
 Ideal usage for Kivy, as install of 3rd party packages is difficult. 
 
